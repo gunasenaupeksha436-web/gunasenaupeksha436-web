@@ -2,14 +2,12 @@
 # Hi there, I'm Upeksha Gunasena 👋
 
 **Age:** 22  
-**Major:** Cyber Security
+**Major:** software engineer
 
 ---
 
 ### About Me
-I'm a passionate cybersecurity enthusiast focused on learning and developing expertise in information security, threat analysis, and secure systems.
-
----
+I am an undergraduate Software Engineering student at CINEC Campus with a strong interest in technology and innovation. I am passionate about learning new programming languages, developing software solutions, and exploring modern fields like Artificial Intelligence. I enjoy building projects that improve my skills and help me grow as a future software engineer.
 
 ### Let's Connect
 Feel free to explore my repositories and reach out!
